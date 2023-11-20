@@ -40,4 +40,4 @@ Compilação: Como compilar código TypeScript em JavaScript.
 # Como Contribuir
 Se você encontrar erros, tiver sugestões de melhorias ou quiser contribuir com mais conteúdo, sinta-se à vontade para abrir uma issue ou enviar um pull request. Este repositório é destinado a ser um recurso educacional colaborativo para aqueles que estão começando com TypeScript.
 
-Esperamos que este repositório seja útil para você enquanto explora os fundamentos do TypeScript. Boa jornada de aprendizado!
+## Esperamos que este repositório seja útil para você enquanto explora os fundamentos do TypeScript. Boa jornada de aprendizado!
